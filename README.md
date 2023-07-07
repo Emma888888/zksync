@@ -1,3 +1,3 @@
 # zksync
 
-https://teletype.in/@roflaccount/nftscripts-11
+https://teletype.in/@roflaccount/nftscripts-111
